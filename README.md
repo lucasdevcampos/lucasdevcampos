@@ -2,9 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Lucas Campos, desenvolvedor em formação apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em Python e frameworks como Flask e Django, além de trabalhar com SQLAlchemy para gerenciamento de bancos de dados. No front-end, utilizo CSS com Bootstrap e JavaScript para criar interfaces modernas e responsivas. Estou sempre em busca de evoluir minhas habilidades e transformar ideias em soluções digitais que impactem pessoas
-
-
+My name is Lucas Campos, and I'm a developer in training, passionate about technology and continuous learning. I have experience with Python and frameworks like Flask and Django, as well as working with SQLAlchemy for database management. On the front-end, I use CSS with Bootstrap and JavaScript to create modern and responsive interfaces. I'm always looking to improve my skills and transform ideas into digital solutions that impact people.
 
 <p>
     <a href="https://github.com/lucasdevcampos?tab=repositories&sort=stargazers">
