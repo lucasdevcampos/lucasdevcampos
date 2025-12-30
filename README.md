@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Campos
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 My name is Lucas Campos, and I am a passionate developer focused on creating impactful digital solutions. I specialize in full-stack web development and data manipulation.
 
