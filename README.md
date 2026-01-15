@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-My name is Lucas Campos, and I am a passionate developer focused on creating impactful digital solutions. I specialize in full-stack web development and data manipulation.
+My name is Lucas Campos, and I am a passionate developer focused on creating impactful digital solutions. I specialize in full-stack web development and data manipulation with Python.
 
 My expertise includes building robust backend systems with Python, using frameworks like Flask and Django, and managing databases with SQLAlchemy. I also leverage Pandas and NumPy for data analysis, transformation, and automation tasks.
 
