@@ -2,13 +2,7 @@
 
 **`FullStack Developer`**
 
-My name is Lucas Campos, and I am a passionate developer focused on creating impactful digital solutions. I specialize in full-stack web development and data manipulation with Python.
-
-My expertise includes building robust backend systems with Python, using frameworks like Flask and Django, and managing databases with SQLAlchemy. I also leverage Pandas and NumPy for data analysis, transformation, and automation tasks.
-
-On the front-end, I craft modern and responsive user interfaces using CSS, Bootstrap, and JavaScript.
-
-I am driven by a continuous learning mindset and the challenge of transforming complex ideas into efficient, user-centric applications.
+100% focused on the Python ecosystem for data analysis, automation, and visualization. I turn raw data into actionable insights through efficient pipelines that eliminate manual tasks and deliver interactive dashboards for decision-making. From ETL to storytelling, my code prioritizes performance, clarity, and scalability. Constantly evolving and always seeking new challenges in the data universe.
 
 <p>
     <a href="https://github.com/lucasdevcampos?tab=repositories&sort=stargazers">
