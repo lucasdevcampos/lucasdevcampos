@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Lucas Campos
 
-**`FullStack Developer`**
+**`Data Engineer `**
 
-100% focused on the Python ecosystem for data analysis, automation, and visualization. I turn raw data into actionable insights through efficient pipelines that eliminate manual tasks and deliver interactive dashboards for decision-making. From ETL to storytelling, my code prioritizes performance, clarity, and scalability. Constantly evolving and always seeking new challenges in the data universe.
+100% dedicated to the Python ecosystem for data analysis, automation, and visualization. I transform raw data into actionable insights by building efficient pipelines that cut out manual work and deliver interactive dashboards to support decision-making. From ETL to storytelling, I write code with performance, clarity, and scalability in mind. Always learning, always looking for the next challenge in the data space.
 
 <p>
     <a href="https://github.com/lucasdevcampos?tab=repositories&sort=stargazers">
