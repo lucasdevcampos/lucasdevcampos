@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Campos
 
-**`Data Engineer | Manipulation, Automation & Visualization`**
+**`Data Engineer | Analysis, Manipulation, Automation & Visualization`**
 
 100% dedicated to the Python ecosystem for data analysis, automation, and visualization. I transform raw data into actionable insights by building efficient pipelines that cut out manual work and deliver interactive dashboards to support decision-making. From ETL to storytelling, I write code with performance, clarity, and scalability in mind. Always learning, always looking for the next challenge in the data space.
 
