@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Campos
+# Lucas Campos
 
 **`Data Engineer | Analysis, Manipulation, Automation & Visualization`**
 
