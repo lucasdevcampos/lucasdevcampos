@@ -1,22 +1,29 @@
 # Lucas Campos
 
-**`Data Engineer | Analysis, Manipulation, Automation & Visualization`**
+**`Engenharia de Dados (em formação) | Python · Pandas · ETL · APIs · Git · Linux | Extração, limpeza e estruturação de dados`**
 
-100% dedicated to the Python ecosystem for data analysis, automation, and visualization. I transform raw data into actionable insights by building efficient pipelines that cut out manual work and deliver interactive dashboards to support decision-making. From ETL to storytelling, I write code with performance, clarity, and scalability in mind. Always learning, always looking for the next challenge in the data space.
+# Olá, eu sou o Lucas 👋
 
-<p>
-    <a href="https://github.com/lucasdevcampos?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/lucasdevcampos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+**Engenharia de Dados (em formação) | Python · ETL · APIs**
 
----
+Construo pipelines de dados em Python: extraio dados de fontes diferentes
+(APIs REST, CSV e XLSX), limpo e padronizo com Pandas e entrego conjuntos
+de dados estruturados, prontos para uso.
 
-### 🤖 Languagues & Tech
+## Com o que eu trabalho
+- **Extração**: APIs REST, arquivos CSV e Excel
+- **Transformação**: limpeza, remoção de duplicados, tratamento de tipos e junção de bases com Pandas
+- **Entrega**: planilhas estruturadas, datasets e gráficos
+- **Fluxo de trabalho**: Git, terminal Bash/Linux e projetos versionados no GitHub
+
+## Projetos em destaque
+- **[analise-estoque]**: Script faz aplicação de Curva ABC (Pareto)
+
+## Tecnologias
+Python · Pandas · APIs REST · Git · Bash/Linux · SQL
+
+## Roadmap (estudando agora)
+SQL · Docker · Airflow · dbt · Nuvem
 
 <img
     align="left"
