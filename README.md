@@ -1,10 +1,6 @@
 # Lucas Campos
 
-**`Engenharia de Dados (em formação) | Python · Pandas · ETL · APIs · Git · Linux | Extração, limpeza e estruturação de dados`**
-
-# Olá, eu sou o Lucas 👋
-
-**Engenharia de Dados (em formação) | Python · ETL · APIs**
+**Engenharia de Dados (em formação) | Python · Pandas · ETL · APIs · Git · Linux | Extração, limpeza e estruturação de dados**
 
 Construo pipelines de dados em Python: extraio dados de fontes diferentes
 (APIs REST, CSV e XLSX), limpo e padronizo com Pandas e entrego conjuntos
